@@ -1,0 +1,45 @@
+#contenedor-navbar {
+    display:flex;
+    height:fit-content;
+    width: fit-content;
+    border: black 1px;
+}
+
+h1{
+justify-content:center;
+background-color: lightsalmon;
+}
+@media screen and (max-width:600px){
+h1{
+    background-color: lightsalmon;
+    height:fit-content;
+    width:fit-content;
+}
+#img{
+    height:fit-content;
+    width: fit-content;
+    margin-left: 10px;
+    }
+#button_data{
+    display:flex;
+    justify-content:center;
+    height: fit-content;
+    width:fit-content;
+    }
+}
+#button_data{
+display:flex;
+justify-content:center;
+height: fit-content;
+}
+
+body{
+    background-image:url("/images2.jpeg");
+    background-size: 100% 100%;
+}
+
+#img{
+height:200px;
+width: 200px;
+margin-left: 20px;
+}
