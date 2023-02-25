@@ -34,7 +34,7 @@ height: fit-content;
 }
 
 body{
-    background-image:url("/images2.jpeg");
+    background-image:url("./images2.jpeg");
     background-size: 100% 100%;
 }
 
