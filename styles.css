@@ -69,3 +69,8 @@ display: none;
 
 }
 
+li{
+display:flex;
+justify-content:Center;
+}
+
