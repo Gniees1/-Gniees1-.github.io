@@ -1,4 +1,9 @@
 
+
+document.getElementById("bt_hobbies").addEventListener("click",function(){
+    document.getElementById("carouselExampleIndicators").style.display = "block";
+})
+
 document.getElementById("Datos_personales").addEventListener("click",function(){
     document.getElementById("Datos").style.color = "red";
 let nombre = "Juan";
